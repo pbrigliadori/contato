@@ -1,7 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
   var botao4 = document.getElementById('git')
   var botao1 = document.getElementById('inst');
-  var botao2 = document.getElementById('tl');
   var botao3 = document.getElementById('tt');
   var url1 = 'https://github.com/pbrigliadori';
   var url2 = 'https://www.instagram.com/pbrigliadori/';
