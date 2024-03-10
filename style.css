@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url("https://i.postimg.cc/Hx7Bs3Y4/forest-5375005-1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+
+h1 {
+    font-family: 'Merriweather', serif;
+    font-style: italic;
+    color: rgb(210, 210, 210);
+    position: relative;
+    margin-left: 50px;
+    top: 50px;
+}
+
+p {
+    color: white;
+    position: relative;
+    margin-left: 80px;
+    top: 60px;
+    font-size: 20px;
+}
+
+img {
+    position: relative;
+    left: 140%;
+    border-radius: 20px;
+}
+
+h2 {
+    position: relative;
+    color: rgb(188, 168, 168);
+    font-size: 30px;
+    margin-left: 77%;
+    bottom: 400px;
+}
+
+
+button {
+  background-color: #480467; /* Cor de fundo verde */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50px;
+  transition-duration: 0.4s;
+ 
+}
+
+button:hover {
+  background-color: white; /* Cor de fundo ao passar o mouse */
+  color: black;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#git {
+    position: relative;
+    left: 82.4%;
+    bottom: 360px;
+}
+
+#inst {
+    position: relative;
+    left: 69%;
+    bottom: 280px;
+}
+
+
+#tl {
+    position: relative;
+    left: 55%;
+    bottom: 200px;
+}
+
+
+#tt {
+    position: relative;
+    left: 42%;
+    bottom: 130px;
+}
+
+
