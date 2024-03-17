@@ -82,4 +82,74 @@ button:hover {
     bottom: 200px;
 }
 
+/* Estilos para 1366x768 */
+@media screen and (max-width: 1366px){
+    #h1 {
+        position: relative;
+        top: 30px;
+        right: 20px;
+    }
+
+
+    #p {
+        position: relative;
+        top: 15px;
+        right: 50px;
+    }
+
+   
+
+    .a {
+        height: 400px;
+        width: 400px;
+        position: relative;
+        left: 95%;
+        bottom: 7px;
+    }
+
+   
+    #h2 {
+        position: relative;
+        right: 200px;
+    }
+
+    #git {
+        position: relative;
+        left: 610px;
+        top: -390px;
+    }
+    
+    #inst {
+        left: 477px;
+        top: -310px;
+
+    }
+
+    #tt {
+        left: 346px;
+        top: -230px;
+    }
+  
+
+    body {
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+        height: 100vh;
+        overflow: hidden;
+        
+    };
+    
+};
+    /*---------------------------------------------------------------*/
+    
+    
+/* Estilos para 1560x720
+@media screen and (max-width: 768px) {
+
+}*/
+
+
+
+
 
